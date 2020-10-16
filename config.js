@@ -40,9 +40,8 @@ const config = {
     forcedNavOrder: [
       '/introduction', // add trailing slash if enabled above
       '/introduction2',
-
-      '/codeblock',
-      '/introduction3', 
+      '/introduction3',
+      '/codeblock',      
     ],
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
