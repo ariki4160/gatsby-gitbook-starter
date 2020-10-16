@@ -30,3 +30,5 @@ Heading 6 text
 - Item 3
 - Item 4
 - Item 5
+
+![昔のモノクロ写真（子供の頃に撮影）に、ディープラーニングで色を付けたもの](/media/about_me_colorization.jpg)
